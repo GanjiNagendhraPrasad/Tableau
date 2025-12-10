@@ -186,5 +186,4 @@
 
 <hr>
 
-<h2>✅ End of Documentation</h2>
-<p>You can now upload images in the <b>images/</b> folder and link them using the HTML <code>&lt;img&gt;</code> tags above.</p>
+
